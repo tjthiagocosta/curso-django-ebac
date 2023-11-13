@@ -1,0 +1,28 @@
+# Ignore Python related files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore database files
+*.sqlite3
+
+# Ignore local settings
+local_settings.py
+
+# Ignore environment file
+.env
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore PyCharm settings
+.idea/
+
+# Ignore migration files
+/migrations/
+
+# Ignore static files
+/staticfiles/
+
+# Ignore media files
+/media/
